@@ -44,4 +44,8 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
