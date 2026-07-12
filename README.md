@@ -12,10 +12,12 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +36,12 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
