@@ -1,5 +1,7 @@
+//TC O(1), SC O(K) NOT HE BEST
+
 class Solution {
-public:
+public:         
     vector<int> ans;
 
     void solve(int num, int nextDigit, int low, int high) {
