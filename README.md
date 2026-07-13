@@ -48,4 +48,8 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
