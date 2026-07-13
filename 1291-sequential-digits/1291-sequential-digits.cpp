@@ -1,16 +1,28 @@
 class Solution {
 public:
+    vector<int> ans;
+
+    void solve(int num, int nextDigit, int low, int high) {
+        if (num > high)
+            return;
+
+        if (num >= low)
+            ans.push_back(num);
+
+        if (nextDigit > 9)
+            return;
+
+        solve(num * 10 + nextDigit, nextDigit + 1, low, high);
+    }
+
     vector<int> sequentialDigits(int low, int high) {
-        vector<int> res;
-        for (int i = 1; i <= 9; ++i) {
-            int num = i;
-            for (int j = i + 1; j <= 9; ++j) {
-                num = num * 10 + j;
-                if (num >= low && num <= high)
-                    res.push_back(num);
-            }
+
+        for (int start = 1; start <= 9; start++) {
+            solve(start, start + 1, low, high);
         }
-        sort(res.begin(), res.end());
-        return res;
+
+        sort(ans.begin(), ans.end());
+
+        return ans;
     }
 };
