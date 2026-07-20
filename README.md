@@ -48,8 +48,17 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/1291-sequential-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
