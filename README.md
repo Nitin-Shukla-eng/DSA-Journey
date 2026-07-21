@@ -27,6 +27,7 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -56,9 +57,11 @@ This repo is my journey, how i code.
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
