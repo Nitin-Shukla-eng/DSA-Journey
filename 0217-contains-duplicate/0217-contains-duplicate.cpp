@@ -14,13 +14,25 @@
 
 //2
 
+// class Solution {
+// public:
+//     bool containsDuplicate(vector<int> &nums){
+//         unordered_set<int> love;
+//         for(int n:nums){
+//             if(love.count(n)) return true;
+//             else love.insert(n);
+//         }
+//         return false;
+//     }
+// };
+
 class Solution {
 public:
     bool containsDuplicate(vector<int> &nums){
-        unordered_set<int> love;
+        unordered_map<int,int> mp;
         for(int n:nums){
-            if(love.count(n)) return true;
-            else love.insert(n);
+            mp[n]++;
+            if(mp[n]>1) return true;
         }
         return false;
     }
