@@ -13,6 +13,7 @@ This repo is my journey, how i code.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
