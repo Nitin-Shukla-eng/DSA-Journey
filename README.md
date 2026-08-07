@@ -14,6 +14,7 @@ This repo is my journey, how i code.
 | [0002-add-two-numbers](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -58,6 +59,7 @@ This repo is my journey, how i code.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
 ## Enumeration
 |  |
