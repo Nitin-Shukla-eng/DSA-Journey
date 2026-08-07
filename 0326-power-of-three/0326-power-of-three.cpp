@@ -7,6 +7,8 @@ public:
             x*=3;
         }
         if(x==n) return true;
-        return false;
+        else{
+             return false;
+        }
     }
 };
