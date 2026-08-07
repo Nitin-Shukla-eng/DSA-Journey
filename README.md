@@ -14,12 +14,14 @@ This repo is my journey, how i code.
 | [0002-add-two-numbers](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
