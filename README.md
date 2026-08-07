@@ -13,6 +13,7 @@ This repo is my journey, how i code.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -31,6 +32,7 @@ This repo is my journey, how i code.
 | [0001-two-sum](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
