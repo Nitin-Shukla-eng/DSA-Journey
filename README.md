@@ -28,6 +28,7 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0061-rotate-list) |
+| [0283-move-zeroes](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
@@ -37,6 +38,7 @@ This repo is my journey, how i code.
 | [0049-group-anagrams](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
