@@ -1,4 +1,4 @@
-// should have red the question first
+// should have read the question first
 // class Solution {
 // public:
 //     void moveZeroes(vector<int>& nums) {
