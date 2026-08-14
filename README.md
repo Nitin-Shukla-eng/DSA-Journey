@@ -63,6 +63,7 @@ This repo is my journey, how i code.
 | [0049-group-anagrams](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
@@ -75,10 +76,15 @@ This repo is my journey, how i code.
 | [0049-group-anagrams](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
