@@ -41,6 +41,7 @@ This repo is my journey, how i code.
 | [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +89,8 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
