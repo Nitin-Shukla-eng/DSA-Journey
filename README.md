@@ -13,6 +13,7 @@ This repo is my journey, how i code.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0263-ugly-number) |
@@ -64,6 +65,7 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
@@ -77,6 +79,7 @@ This repo is my journey, how i code.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nitin-Shukla-eng/DSA-Journey/tree/master/0242-valid-anagram) |
